@@ -71,4 +71,15 @@ summary,
 }
 */
 
-
+.button {
+	font-size: 30px;
+	margin: auto;
+	width: 100%;
+	padding: 10px;
+	border-radius: 10px;
+	cursor: pointer;
+	border: solid 3px #fff;
+	background: none;
+	color: #fff;
+	display: block;
+}
